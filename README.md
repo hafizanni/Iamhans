@@ -1,13 +1,33 @@
-# 👋 Hi, I'm Hans
+# 👋 Hi, I'm Hafizanni
 
-💡 Machine Learning enthusiast passionate about data-driven financial innovation  
-🛠️ Currently working on a predictive heat dissipation analysis using Python  
-📊 Skilled in data visualization, Google Colab, and refining technical workflows  
-🔗 Built [Yumme](#) – an AI-powered dining assistant  
-🚀 Exploring fintech tools that bridge ML with real-world impact  
-🎯 Applying for ML Scientist Intern at MoneyLion
+🎓 Software Engineering student at Universiti Kuala Lumpur MIIT  
+📱 Passionate about mobile app development using Flutter & Dart  
+🤖 Exploring AI and Machine Learning to build smarter experiences  
+🛠️ Built **Yumme** – an AI-powered smart dining assistant with navigation features  
+🔍 Experienced in QA and product testing from internship at Sony EMCS  
+🖋️ Creative with design—Arabic calligraphy integration in printing projects  
+🚀 Open to software engineering and ML opportunities that drive innovation
 
-## ⚡ GitHub Stats
+## 🧠 Skills & Tools
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamhans&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamhans&layout=compact&theme=react)
+- **Languages & Frameworks**: Dart (Flutter), Python, PHP, React, SQL, Java, JavaScript, TypeScript  
+- **Tools & Platforms**: Google Colab, Figma, VS Code, Draw.io, Microsoft Learn  
+- **Certifications**: 🎓 *Project Management Certified – Coursera*
+
+## 🌱 Currently Learning
+- Machine Learning fundamentals with Python  
+- Innovative applications of AI in fintech and smart apps
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamhans&show_icons=true&theme=dracula)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamhans&layout=compact&theme=dracula)
+
+## 🎨 Interests Outside of Code
+
+⛰️ Hiking | 🤝 Volunteering | 💡 Exploring emerging technologies
+
+---
+
+📫 **Let’s Connect**:  
+[LinkedIn – Hafizanni Naim](https://www.linkedin.com/in/hafizanni-naim)
