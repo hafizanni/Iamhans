@@ -1,4 +1,3 @@
-<img src="https://github.com/Iamhans/Iamhans/blob/main/your-image-name.png" alt="Profile Banner" width="100%" />
 # 👋 Hi, I'm Hafizanni Naim
 
 🎓 Software Engineering student at Universiti Kuala Lumpur MIIT  
