@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hafizanni
+# 👋 Hi, I'm Hafizanni Naim
 
 🎓 Software Engineering student at Universiti Kuala Lumpur MIIT  
 📱 Passionate about mobile app development using Flutter & Dart  
@@ -18,11 +18,6 @@
 - Machine Learning fundamentals with Python  
 - Innovative applications of AI in fintech and smart apps
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamhans&show_icons=true&theme=dracula)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamhans&layout=compact&theme=dracula)
-
 ## 🎨 Interests Outside of Code
 
 ⛰️ Hiking | 🤝 Volunteering | 💡 Exploring emerging technologies
@@ -30,4 +25,4 @@
 ---
 
 📫 **Let’s Connect**:  
-[LinkedIn – Hafizanni Naim](https://www.linkedin.com/in/hafizanni-naim)
+[LinkedIn – Hafizanni Naim](https://www.linkedin.com/in/hafizanninaim)
